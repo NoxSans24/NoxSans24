@@ -29,14 +29,6 @@ Currently Learning
 
 Golang · Web Development · DBMS · Backend Development
 
-Current Focus
-text
-Web Development      ███████░░░  Learning
-Backend Development  ██████░░░░  Learning
-Database             ███████░░░  Learning
-Golang               █████░░░░░  Learning
-Cybersecurity        ████░░░░░░  Exploring
-
 ## 💻 Tech Stack
 
 **Languages**
