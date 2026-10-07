@@ -100,22 +100,6 @@ Cybersecurity        ████░░░░░░  Exploring
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NoxSans24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=NoxSans24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-
-</div>
-
 ### ✍️ Random Dev Quote
 
 <div align="center">
