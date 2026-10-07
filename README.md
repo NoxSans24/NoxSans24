@@ -1,17 +1,12 @@
-<!--
-  PROFILE README
-  Muhammad Ihsan Hanafi / NoxSans24
--->
-
-# 💫 About Me
-
 <div align="center">
 
-# Muhammad Ihsan Hanafi
+# 💫 About Me: Muhammad Ihsan Hanafi
 
-### **Informatics Student · Aspiring Developer · Tech Enthusiast**
+**Informatics Student · Aspiring Developer · Tech Enthusiast**
 
 > Building, learning, and exploring technology through hands-on projects.
+
+<img src="https://komarev.com/ghpvc/?username=NoxSans24&icon=9&color=12" alt="profile views" />
 
 </div>
 
@@ -36,20 +31,51 @@ I'm an Informatics student with an interest in software development, web technol
 
 `Golang` · `Web Development` · `DBMS` · `Backend Development`
 
-### Tech Stack
+### Current Focus
 
-<div align="center">
+```text
+Web Development      ███████░░░  Learning
+Backend Development  ██████░░░░  Learning
+Database             ███████░░░  Learning
+Golang               █████░░░░░  Learning
+Cybersecurity        ████░░░░░░  Exploring
+```
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+---
 
-</div>
+## 💻 Tech Stack
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data Science**
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Design**
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**Deployment & Version Control**
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Hardware & Networking**
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+**Gaming Platforms**
+
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ### Development Tools
 
@@ -57,49 +83,56 @@ I'm an Informatics student with an interest in software development, web technol
 
 ---
 
-## Current Focus
+## 🌐 Socials
 
-Web Development      ███████░░░  Learning
-Backend Development  ██████░░░░  Learning
-Database             ███████░░░  Learning
-Golang               █████░░░░░  Learning
-Cybersecurity        ████░░░░░░  Exploring
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9bAd2vqsN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sans_ihsan24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M%20Ihsan%20Hanafi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Sans) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ihcsan2hanafi@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=NoxSans24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" height="180" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NoxSans24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" height="180" />
+
+<img src="https://streak-stats.demolab.com/?user=NoxSans24&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+
 </div>
 
-###
+## 🏆 GitHub Trophies
 
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB1aG9iemt4MzNxenIzd253ZTQ5Mzg5Y3VzN256Nzkyd2kzY3BpaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NoxSans24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
+
 </div>
 
-###
+### 🔝 Top Contributed Repo
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=NoxSans24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+
 </div>
 
-###
+### ✍️ Random Dev Quote
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<div align="center">
 
-###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/snake-output/snake.svg" alt="Snake animation" />
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" width="100%" alt="footer" />
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
