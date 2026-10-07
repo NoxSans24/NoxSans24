@@ -12,22 +12,30 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=NoxSans24&style=flat-square&color=blueviolet)](https://github.com/NoxSans24)
 
 </div>
-### 👨‍💻 About Me
-Hi there! I'm **Muhammad Ihsan Hanafi**, also known online as **NoxSans**.  
-I'm an Informatics student with a keen interest in software development, web engineering, database architecture, and cybersecurity. I enjoy turning creative ideas into functional solutions while continuously refining my technical abilities.
-- 🔭 **Currently Working On:** Client-side web apps & interactive tools
-- 🌱 **Currently Learning:** `Golang` · `Advanced DBMS` · `System Architecture` · `Cybersecurity`
-- 💬 **Ask Me About:** Front-end development, responsive web design, and database basics
-- ⚡ **Fun Fact:** When not coding, I'm exploring robotics or spending time on competitive gaming
----
-### 🎯 Current Focus
-```text
-Web Development      ████████░░  Active Learning & Building
-Backend Development  ██████░░░░  Learning APIs & Microservices
-Database (DBMS)      ███████░░░  Relational & NoSQL Schema Design
-Golang               █████░░░░░  Syntax, Concurrency & Goroutines
-Cybersecurity        ████░░░░░░  Fundamentals & CTF Exploring
----
+About Me
+
+I'm Muhammad Ihsan Hanafi, also known as NoxSans.
+
+I'm an Informatics student with an interest in software development, web technologies, databases, and cybersecurity. I enjoy turning ideas into practical projects while continuously improving my technical skills.
+
+Areas of Interest
+Web Development
+Backend Development
+Database Management
+Cybersecurity
+Software Development
+Robotics
+Currently Learning
+
+Golang · Web Development · DBMS · Backend Development
+
+Current Focus
+text
+Web Development      ███████░░░  Learning
+Backend Development  ██████░░░░  Learning
+Database             ███████░░░  Learning
+Golang               █████░░░░░  Learning
+Cybersecurity        ████░░░░░░  Exploring
 
 ## 💻 Tech Stack
 
