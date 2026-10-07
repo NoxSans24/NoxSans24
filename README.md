@@ -109,10 +109,7 @@ Cybersecurity        ████░░░░░░  Exploring
 </div>
 
 ---
-
 <div align="center">
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
