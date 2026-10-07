@@ -1,13 +1,17 @@
 <div align="center">
 
-# 💫 About Me: Muhammad Ihsan Hanafi
+# Hi there, I'm Muhammad Ihsan Hanafi 👋
+### (*NoxSans*)
 
-**Informatics Student · Aspiring Developer · Tech Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Informatics+Student;Aspiring+Software+Engineer;Web+%26+Backend+Developer;Tech+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-> Building, learning, and exploring technology through hands-on projects.
+<p align="center">
+  <em>Building, learning, and crafting digital experiences through code.</em>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=NoxSans24&icon=9&color=12" alt="profile views" />
+[![Profile Views](https://komarev.com/ghpvc/?username=NoxSans24&style=flat-square&color=blueviolet)](https://github.com/NoxSans24)
 
+</div>
 </div>
 
 ---
