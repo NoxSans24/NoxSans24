@@ -59,7 +59,6 @@ I'm an Informatics student with an interest in software development, web technol
 
 ## Current Focus
 
-```text
 Web Development      ███████░░░  Learning
 Backend Development  ██████░░░░  Learning
 Database             ███████░░░  Learning
