@@ -1,50 +1,28 @@
 <div align="center">
-
 # Hi there, I'm Muhammad Ihsan Hanafi 👋
 ### (*NoxSans*)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Informatics+Student;Aspiring+Software+Engineer;Web+%26+Backend+Developer;Tech+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Informatics+Student;Aspiring+Software+Engineer;Web+%26+Backend+Developer;Tech+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 <p align="center">
-  <em>Building, learning, and crafting digital experiences through code.</em>
+  <em>Building, learning, and exploring technology through hands-on projects.</em>
 </p>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=NoxSans24&style=flat-square&color=blueviolet)](https://github.com/NoxSans24)
-
 </div>
-</div>
-
 ---
-
-## About Me
-
-I'm **Muhammad Ihsan Hanafi**, also known as **NoxSans**.
-
-I'm an Informatics student with an interest in software development, web technologies, databases, and cybersecurity. I enjoy turning ideas into practical projects while continuously improving my technical skills.
-
-### Areas of Interest
-
-- Web Development
-- Backend Development
-- Database Management
-- Cybersecurity
-- Software Development
-- Robotics
-
-### Currently Learning
-
-`Golang` · `Web Development` · `DBMS` · `Backend Development`
-
-### Current Focus
-
+### 👨‍💻 About Me
+Hi there! I'm **Muhammad Ihsan Hanafi**, also known online as **NoxSans**.  
+I'm an Informatics student with a keen interest in software development, web engineering, database architecture, and cybersecurity. I enjoy turning creative ideas into functional solutions while continuously refining my technical abilities.
+- 🔭 **Currently Working On:** Client-side web apps & interactive tools
+- 🌱 **Currently Learning:** `Golang` · `Advanced DBMS` · `System Architecture` · `Cybersecurity`
+- 💬 **Ask Me About:** Front-end development, responsive web design, and database basics
+- ⚡ **Fun Fact:** When not coding, I'm exploring robotics or spending time on competitive gaming
+---
+### 🎯 Current Focus
 ```text
-Web Development      ███████░░░  Learning
-Backend Development  ██████░░░░  Learning
-Database             ███████░░░  Learning
-Golang               █████░░░░░  Learning
-Cybersecurity        ████░░░░░░  Exploring
-```
-
+Web Development      ████████░░  Active Learning & Building
+Backend Development  ██████░░░░  Learning APIs & Microservices
+Database (DBMS)      ███████░░░  Relational & NoSQL Schema Design
+Golang               █████░░░░░  Syntax, Concurrency & Goroutines
+Cybersecurity        ████░░░░░░  Fundamentals & CTF Exploring
 ---
 
 ## 💻 Tech Stack
