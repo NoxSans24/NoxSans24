@@ -80,10 +80,9 @@ Golang · Web Development · DBMS · Backend Development
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=NoxSans24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" height="180" />
-
+<img src="https://streak-stats.demolab.com/?user=NoxSans24&theme=tokyonight&hide_border=false" alt="GitHub streak" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NoxSans24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" height="180" />
 
-<img src="https://streak-stats.demolab.com/?user=NoxSans24&theme=tokyonight&hide_border=false" alt="GitHub streak" />
 
 </div>
 
