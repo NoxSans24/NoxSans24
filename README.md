@@ -65,155 +65,42 @@ Backend Development  ██████░░░░  Learning
 Database             ███████░░░  Learning
 Golang               █████░░░░░  Learning
 Cybersecurity        ████░░░░░░  Exploring
-🌐 Socials
-<div align="center">
-
-
-
-
-
-
-
-
-
-
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
-💻 Tech Stack
-<div align="center">
 
+###
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div data-importer="image" align="left">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB1aG9iemt4MzNxenIzd253ZTQ5Mzg5Y3VzN256Nzkyd2kzY3BpaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"  />
 </div>
-📊 GitHub Stats
-<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=NoxSans24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+###
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=NoxSans24&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NoxSans24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-🏆 GitHub Trophies
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NoxSans24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+###
 
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-✍️ Random Dev Quote
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+###
 
-</div>
-🔝 Top Contributed Repo
-<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=NoxSans24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+###
 
-</div>
-<div align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/snake-output/snake.svg" alt="Snake animation" />
 
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> <div align="center">
-
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" alt="Capsule Render" />
-
-</div>
-<div align="left">
-
-<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB1aG9iemt4MzNxenIzd253ZTQ5Mzg5Y3VzN256Nzkyd2kzY3BpaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Profile GIF" />
-
-</div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-
-<img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-
-</div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-
-</div>
-<div align="center"> <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman" />
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman" />
-
-<img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman" alt="Pacman contribution graph" width="100%" />
-
-</picture> </div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/snake-output/snake.svg" alt="Snake animation" width="100%" />
-
-</div>
-<div align="center">
-
-BUILD · LEARN · IMPROVE
-
-<br><br>
-
-<sub>© 2026 Muhammad Ihsan Hanafi</sub>
-
-</div> ```
+###
