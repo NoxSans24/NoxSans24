@@ -111,12 +111,18 @@ Cybersecurity        ████░░░░░░  Exploring
 ---
 
 <div align="center">
+###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-<img src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/snake-output/snake.svg" alt="Snake animation" />
+###
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" width="100%" alt="footer" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/NoxSans24/NoxSans24/snake-output/snake.svg" alt="Snake animation" />
 
-</div>
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
