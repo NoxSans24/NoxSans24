@@ -1,4 +1,13 @@
 <div align="center">
+  <img
+    src="./assets/image.png"
+    alt="NoxSans - Software Engineer"
+    width="100%"
+  />
+</div>
+
+<br/>
+<div align="center">
 
 # Hi there, I'm Muhammad Ihsan Hanafi 👋
 ### (*NoxSans*)
